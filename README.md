@@ -1,13 +1,23 @@
-Chrisoula was born and raised in Bay Ridge. She is a junior attending HSTAT. Is on the schoool's _Varsity Girls Basketball Team_
-Chrisoula's email is chrisoulam7947@hstat.org
+### About Me (Chrisoula Manguravdos)
+
+Chrisoula was born and raised in Bay Ridge. She is a junior attending HSTAT. Is on the schoool's _**Varsity Girls Basketball Team**_
+
+##### Chrisoula's email is chrisoulam7947@hstat.org
 ---
-#### **Her schedule is:**
+##### Her schedule is:
 ---
-1. English (Ms. Karvunis)
-2. SEP (Mr. Mueller)
-3. Physics (Mr. Michely)
-4. Lunch 
-5. Service (Mr.Cunningham)
-6. Pre-Calc (Mr.Ross)
-7. U.S History (Ms.Gibson)
-8. Spanish 5 (Ms. Montague)
+* English 
+    * Ms. Karvunis
+*  SEP 
+    * Mr. Mueller
+*   Physics 
+    * Mr. Michely
+*  Lunch 
+* Service 
+    * Mr.Cunningham
+*  Pre-Calc 
+    * Mr.Ross
+*  U.S History 
+   * Ms.Gibson + Mr. Maz
+*  Spanish 5 
+    * Ms. Montague
