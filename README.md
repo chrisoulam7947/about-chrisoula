@@ -1,6 +1,8 @@
 ### About Me (Chrisoula Manguravdos)
 
-Chrisoula was born and raised in Bay Ridge. She is a junior attending HSTAT. Is on the schoool's _**Varsity Girls Basketball Team**_
+Chrisoula was born and raised in Bay Ridge. 
+She is a junior attending HSTAT. 
+She is also on the schoool's _**Varsity Girls Basketball Team**_
 
 ##### Chrisoula's email is chrisoulam7947@hstat.org
 ---
