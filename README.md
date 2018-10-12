@@ -8,18 +8,18 @@ She is also on the schoool's _**Varsity Girls Basketball Team**_
 ---
 ##### Her schedule is:
 ---
-* English 
-    * Ms. Karvunis
-*  SEP 
-    * Mr. Mueller
-*   Physics 
-    * Mr. Michely
-*  Lunch 
-* Service 
-    * Mr.Cunningham
-*  Pre-Calc 
-    * Mr.Ross
-*  U.S History 
-   * Ms.Gibson + Mr. Maz
-*  Spanish 5 
-    * Ms. Montague
+* **English** 
+    * _Ms. Karvunis_
+*  **SEP** 
+    * _Mr. Mueller_
+*   **Physics** 
+    * _Mr. Michely_
+*  **Lunch** 
+* **Service** 
+    * _Mr.Cunningham_
+*  **Pre-Calc** 
+    * _Mr.Ross_
+*  **U.S History**
+   * _Ms.Gibson + Mr. Maz_
+*  **Spanish 5** 
+    * _Ms. Montague_
