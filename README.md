@@ -24,6 +24,6 @@ She is also on the schoool's _**Varsity Girls Basketball Team**_
      * _Mr.Ross_
 7.   **U.S History**
      * _Ms.Gibson_
-     *  _Mr.Maz_  **(2nd teacher)**  **(2nd teacher)**
+       *  _Mr.Maz_  **(2nd teacher)**  **(2nd teacher)**
 8.   **Spanish 5** 
      * _Ms. Montague_
